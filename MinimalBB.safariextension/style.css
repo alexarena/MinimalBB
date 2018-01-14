@@ -4,6 +4,10 @@
   padding-top: 0px !important;
 }
 
+.breadcrumbs{
+  border-width: 0px !important;
+}
+
 .noItems{
   display: none !important;
 }
@@ -19,9 +23,34 @@
   padding-top: 0px !important;
 }
 
+.actionBarMicro{
+  display: none !important;
+}
+
 .nav-link{
   margin-top: 16px !important;
   border-radius: 5px 5px 5px 5px;
   background-color: #ececec !important;
   color: #444444 !important;
+}
+
+.localViewToggle{
+  visibility: hidden !important;
+}
+
+.pageTitle{
+  background-color: white !important;
+  font-weight: bold !important;
+}
+
+.contentBox, .contentPane{
+  background-color: white !important;
+}
+
+.menuWrap{
+  height: 100vh !important;
+}
+
+#globalNavPageContentArea{
+  background-color: white !important;
 }

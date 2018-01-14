@@ -15,7 +15,10 @@ hideElements([
   'asu_nav_wrapper',
   'column0',
   'topframe.logout.label',
-  'global-avatar'
+  'global-avatar',
+  'menuPuller',
+  'copyright',
+  'arrowContext_1'
 ])
 
 document.getElementsByClassName('tabWrapper-left')[0].style.visibility = 'hidden'
